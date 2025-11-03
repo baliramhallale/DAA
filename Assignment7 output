@@ -1,3 +1,15 @@
+Courses: 0, 1, 2, 3, 4, 5
+
+Edges (conflicts):
+0–1
+1–2
+2–3
+3–4
+3–5
+0–5
+
+
+
 Exam Slot Assignment (Greedy Coloring):
 Course 0 → Slot 0
 Course 1 → Slot 1
