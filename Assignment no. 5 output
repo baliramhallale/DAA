@@ -1,0 +1,17 @@
+Optimal costs from Stage 0 nodes:
+Node 0: Cost = 8.000000
+Node 1: Cost = 7.000000
+
+Best path from 0 : 0 -> 3 -> 4
+Total route cost: 8
+
+Enter number of live edge cost updates (0 to finish): 1
+Enter update (u v multiplier): 0 2 0.5
+
+After updates, best costs from Stage 0 nodes:
+Node 0: Cost = 7.500000
+Node 1: Cost = 7.000000
+
+Enter a Stage 0 source node to view updated path (-1 to exit): 0
+Updated path from 0 : 0 -> 2 -> 4
+Updated route cost: 7.5
