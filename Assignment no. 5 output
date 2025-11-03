@@ -1,3 +1,19 @@
+Enter total number of stages: 3
+Enter node count in each stage (3 values): 2 2 1
+Enter number of edges: 5
+Enter each edge as: source destination cost
+0 2 4
+0 3 3
+1 2 2
+1 3 6
+2 4 5
+
+Enter a source node (stage 0) to display path, or -1 to skip: 0
+Enter number of live edge cost updates (0 to finish): 1
+Enter update (u v multiplier): 0 2 0.5
+Enter a Stage 0 source node to view updated path (-1 to exit): 0
+
+
 Optimal costs from Stage 0 nodes:
 Node 0: Cost = 8.000000
 Node 1: Cost = 7.000000
