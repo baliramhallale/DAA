@@ -1,0 +1,9 @@
+🚚 SwiftCargo - Truck Loading Optimization (Knapsack with Perishables)
+
+Items loaded in the truck:
+✅ Item 5 | Weight: 15 | Utility: 90 | Perishable: Yes
+✅ Item 2 | Weight: 20 | Utility: 100 | Perishable: No
+✅ Item 1 | Weight: 10 | Utility: 72 | Perishable: Yes
+Total Weight Loaded: 45 kg
+
+📦 Maximum Total Utility (using DP): 262
